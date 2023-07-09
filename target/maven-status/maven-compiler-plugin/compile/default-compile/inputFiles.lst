@@ -1,0 +1,15 @@
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\interfaces\IFaceEnum.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\logic\ShuffleDeck.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\classes\Hand.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\enums\CompareCardEnum.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\models\FiveHandPokerCard.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\classes\Card.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\PokerApplication.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\classes\Deck.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\models\FiveHandPokerDeck.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\enums\FiveCardPokerFaceEnum.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\logic\FiveHandPokerHandEvaluator.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\models\FiveHandPokerHand.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\enums\HandTypeEnum.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\interfaces\IHandEvaluator.java
+C:\Coding\eclipse-java\pokerHandEvaluator\src\main\java\poker\enums\SuitEnum.java

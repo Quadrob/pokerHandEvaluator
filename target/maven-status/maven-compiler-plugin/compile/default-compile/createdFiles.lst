@@ -1,0 +1,15 @@
+poker\enums\SuitEnum.class
+poker\classes\Card.class
+poker\classes\Deck.class
+poker\enums\FiveCardPokerFaceEnum.class
+poker\models\FiveHandPokerDeck.class
+poker\models\FiveHandPokerCard.class
+poker\classes\Hand.class
+poker\logic\FiveHandPokerHandEvaluator.class
+poker\models\FiveHandPokerHand.class
+poker\enums\CompareCardEnum.class
+poker\logic\ShuffleDeck.class
+poker\interfaces\IHandEvaluator.class
+poker\enums\HandTypeEnum.class
+poker\interfaces\IFaceEnum.class
+poker\PokerApplication.class
